@@ -1,0 +1,11 @@
+{
+  "name": "coffee-website-clone",
+  "version": "1.0.0",
+  "description": "coffee website clone using HTML, CSS and JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Mahajan",
+  "license": "MIT"
+}
